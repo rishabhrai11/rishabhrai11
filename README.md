@@ -45,7 +45,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabhrai11&show_icons=true&theme=radical)
 
 
-<img align="right" alt="" src="https://raw.githubusercontent.com/rishabhrai11/rishabhrai11/main/coding-art.gif" width="100%" />
+<img align="right" alt="" src="https://raw.githubusercontent.com/rishabhrai11/rishabhrai11/main/coding-art.gif" width="75%" />
 
 ---
 
