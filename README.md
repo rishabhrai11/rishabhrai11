@@ -1,5 +1,5 @@
 
-$${\color{red}🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾}$$
+### $${\color{purple}🚀 \space Hi, \space I \space am \space Rishabh, \space Welcome \space to \space My \space GitHub \space profile! \space 👾}$$
 
 
 <img align="right" alt="Coding" width="350" src="https://i.redd.it/1d11s820dgm91.gif">
