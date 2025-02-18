@@ -1,4 +1,4 @@
-<h1 align="center" style="color: purple;"> 🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾 </h1>
+@@ 🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾 @@
 
 
 
