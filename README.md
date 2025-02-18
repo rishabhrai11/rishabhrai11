@@ -2,7 +2,7 @@
   <style>
     @font-face {
       font-family: 'Cyber Alert';
-      src: url('https://raw.githubusercontent.com/rishabhrai11/rishabhrai11/main/CyberAlert.woff2') format('woff2');
+      src: url('https://github.com/rishabhrai11/rishabhrai11/blob/main/Cyber%20Alert.woff2') format('woff2');
     }
     .cyber-font {
       font-family: 'Cyber Alert', sans-serif;
