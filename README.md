@@ -1,5 +1,5 @@
 ```diff
- ### @@ 🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾 @@
+ @@ 🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾 @@
 ```
 
 <img align="right" alt="Coding" width="350" src="https://i.redd.it/1d11s820dgm91.gif">
