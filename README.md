@@ -4,9 +4,9 @@
 
 
 ### 🎮 **Who Am I?**
-- 🔹 Passionate about **Backend & Cloud Technologies** ☁️  
-- 🔹 AWS Certified **Solution Architect**  
-- 🔹 Always exploring new **tech stacks**  
+🔹 Passionate about **Backend & Cloud Technologies** ☁️  
+🔹 AWS Certified **Solution Architect**  
+🔹 Always exploring new **tech stacks**  
 ---
 
 ### 🕹️ **My Tech Stack**
