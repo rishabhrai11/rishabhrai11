@@ -1,7 +1,7 @@
-# 👾 Welcome to My GitHub Profile 
+<h1 align="center">Hello World👋, I'm Rishabh Rai</h1>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/296084ab5cccc2509c01e4981f33da7668a10fa5d0004f1b71f016124439a375/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f35654c4472456152474865677832466546322f67697068792e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrai11&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrai11" /> </p>
 
-<!-- Custom 8-bit pixel banner -->
-<img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="100%" />
 
 ### 🎮 **Who Am I?**
 - 🔹 Passionate about **Backend & Cloud Technologies** ☁️  
