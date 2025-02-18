@@ -1,5 +1,4 @@
 <h1 align="centre"> $${\color{purple}🚀 \space Hi, \space I \space am \space Rishabh, \space Welcome \space to \space My \space GitHub \space profile! \space 👾}$$ </h1>
-
 <img align="right" alt="Coding" width="350" src="https://i.redd.it/1d11s820dgm91.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrai11&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrai11" /> </p>
 
