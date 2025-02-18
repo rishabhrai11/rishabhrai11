@@ -1,7 +1,7 @@
 # 👾 Welcome to My GitHub Profile 
 
 <!-- Custom 8-bit pixel banner -->
-<img src="https://your-banner-image-url.com/banner.png" width="100%" />
+<img src="https://i.pinimg.com/originals/4d/16/78/4d1678e171347c4402c231dad0394f0f.gif" width="100%" />
 
 ### 🎮 **Who Am I?**
 - 🔹 Passionate about **Backend & Cloud Technologies** ☁️  
