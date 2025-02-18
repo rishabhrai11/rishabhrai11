@@ -1,18 +1,4 @@
-<h1 align="center">
-  <style>
-    @font-face {
-      font-family: 'Cyber Alert';
-      src: url('https://github.com/rishabhrai11/rishabhrai11/blob/main/Cyber%20Alert.woff2') format('woff2');
-    }
-    .cyber-font {
-      font-family: 'Cyber Alert', sans-serif;
-      font-size: 24px;
-      color: #00FF00;
-    }
-  </style>
-
-  <span class="cyber-font">🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾</span>
-</h1>
+### @@🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾@@
 
 
 
