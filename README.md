@@ -1,4 +1,4 @@
-<p align="center">
+<h1 align="center">
   <style>
     @font-face {
       font-family: 'Cyber Alert';
@@ -12,7 +12,7 @@
   </style>
 
   <span class="cyber-font">🚀 Hi, I am Rishabh, Welcome to My GitHub profile! 👾</span>
-</p>
+</h1>
 
 
 
