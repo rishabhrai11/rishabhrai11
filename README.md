@@ -46,7 +46,7 @@
 
 ---
 
-<img align="centre" alt="" src="https://raw.githubusercontent.com/rishabhrai11/rishabhrai11/main/coding-art.gif" width="75%" />
+<img align="centre" alt="" src="https://raw.githubusercontent.com/rishabhrai11/rishabhrai11/main/coding-art.gif" width="100%" />
 
 ---
 
